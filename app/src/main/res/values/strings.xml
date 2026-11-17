@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Night Shift</string>
+    <string name="title_pizzeria_sub">BRUNO\'S PIZZA &amp; ARCADE</string>
+    <string name="title_shift_badge">PARTS &amp; SERVICE // 12:00 AM</string>
+    <string name="title_briefing">Power has failed across Bruno\'s Pizzeria. Search the dark rooms with your flashlight, recover all 4 missing parts, and repair Bruno on the workshop stage.</string>
+    <string name="action_start_shift">BEGIN NIGHT SHIFT</string>
+    <string name="action_explore_mode">EXPLORE MODE (NO STALKER)</string>
+    <string name="action_stalker_mode">HORROR MODE (STALKER ACTIVE)</string>
+    <string name="action_toggle_audio">Audio</string>
+    <string name="action_flashlight">Toggle Flashlight</string>
+    <string name="action_interact">Interact</string>
+    <string name="action_map">Blueprint Radar</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">RESUME SHIFT</string>
+    <string name="action_restart">RESTART SHIFT</string>
+    <string name="action_quit">RETURN TO LOBBY</string>
+    <string name="hud_battery">CELL</string>
+    <string name="hud_parts_header">PARTS</string>
+    <string name="hud_installed">INSTALLED</string>
+    <string name="repair_title">PARTS &amp; SERVICE BENCH</string>
+    <string name="repair_subtitle">BRUNO MK-II // DIAGNOSTIC SHELL</string>
+    <string name="repair_close">STEP BACK</string>
+    <string name="repair_reboot">INITIATE REBOOT</string>
+    <string name="victory_title">UNIT REPAIRED</string>
+    <string name="victory_subtitle">06:00 AM // SHIFT SURVIVED</string>
+    <string name="gameover_title">SIGNAL LOST</string>
+    <string name="gameover_subtitle">CAM-04 // WORKBENCH OFFLINE</string>
+</resources>

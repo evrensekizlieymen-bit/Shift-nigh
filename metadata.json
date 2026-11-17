@@ -1,0 +1,6 @@
+{
+  "name": "Night Shift",
+  "description": "First-person pizzeria horror game: explore the dark with your flashlight, recover missing animatronic parts, and repair Bruno before the night shift ends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
